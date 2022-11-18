@@ -1,3 +1,3 @@
-module github.com/rupakveerla/design-patterns-in-go/rupak
+module github.com/RupakVeerla/Desing-Patterns-in-Go/Rupak
 
 go 1.18
